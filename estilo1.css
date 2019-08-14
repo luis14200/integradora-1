@@ -7,6 +7,11 @@
 input[type="radio"] {
   display: none;
 }
+.carrusel{
+  margin: 10em 0 0;
+  padding: 5px;
+  position: relative;
+}
 
 .js-slider {
   position: relative;
