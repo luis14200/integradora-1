@@ -195,8 +195,8 @@ body{
       float: right;
       margin: 40px 0 0;
       display: contents;
-      height: 800px;
-      width: 660px;
+      height: auto;
+      width: auto;
       margin: 20px;
       color:#689;
       font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -309,20 +309,20 @@ body{
     height: 365px;
     width: 50%;
     float: right;
-    margin: 4.5em 0
+    margin: -7em 0
 
   }
   #descricion{
     height: 320px;
     width: 40%;
     align:right;
-    margin: 1em 0 0;
+    margin: 3em 0 0;
   }
   .dec{
     font-size: 20px;
     text-align: center;
     color:#dee9e4;
-    margin: 3em 0 0;
+    margin: 1em 0 0;
   }
   
   #text{
